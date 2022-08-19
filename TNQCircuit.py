@@ -1,4 +1,3 @@
-#@title
 import numpy as np
 from typing import List
 import tensornetwork as tn
