@@ -141,7 +141,7 @@ class TNQCircuit:
           参数的意义:
             control: 控制量子位的index
             target: 目标量子位的index
-            gate:  我将要生成的一中门 (Xgate, Ygate, etc.)
+            gate:  我将要生成的一中门 (CNot gate, CZ gate, C-phase gate, etc.)
           返回的是:
             A tensor of the contol gate
         """
